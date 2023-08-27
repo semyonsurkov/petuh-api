@@ -6,9 +6,19 @@
       "img": "https://sun9-6.userapi.com/impg/24mxF4dirll8CIluhy9BdlCM47wtav8Fuudp4w/OtNu7EkObB0.jpg?size=1620x2160&quality=95&sign=b2b856c9156296f516f5f296b11bbd56&type=album"
     },
     {
-      "Name": "Lionel Messi",
-      "Position": "CAM",
-      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230822081409-02-lionel-messi-0819.jpg?c=16x9&q=h_540,w_960,c_fill/f_webp"
+      "Name": "Вадим Красовский",
+      "Nickname": "Пузырь",
+      "img": "https://sun9-28.userapi.com/impg/seEQ23meLXcTSuBAYjrtfKN6mWSILLtcnO0u5Q/Hn40D9pxZPg.jpg?size=1218x1624&quality=95&sign=3996e8a5b6d410ad8eb13fe6314fa7da&type=album"
+    },
+    {
+      "Name": "",
+      "Nickname": "",
+      "img": ""
+    },
+    {
+      "Name": "",
+      "Nickname": "",
+      "img": ""
     }
   ]
 }
