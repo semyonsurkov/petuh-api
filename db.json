@@ -1,0 +1,14 @@
+{
+  "peoples": [
+    {
+      "Name": "Николай Гринчук",
+      "Nickname": "Олень",
+      "img": "https://sun9-6.userapi.com/impg/24mxF4dirll8CIluhy9BdlCM47wtav8Fuudp4w/OtNu7EkObB0.jpg?size=1620x2160&quality=95&sign=b2b856c9156296f516f5f296b11bbd56&type=album"
+    },
+    {
+      "Name": "Lionel Messi",
+      "Position": "CAM",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230822081409-02-lionel-messi-0819.jpg?c=16x9&q=h_540,w_960,c_fill/f_webp"
+    }
+  ]
+}
